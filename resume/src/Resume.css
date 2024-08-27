@@ -149,3 +149,10 @@ ul li {
   text-align: right;
   color: #555;
 }
+
+.logo {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+}

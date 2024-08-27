@@ -1,18 +1,24 @@
 import React from "react";
 import "./Resume.css";
+import rsmImage from "/rsm.png";
 
 const App = () => {
   return (
     <div className="resume-container">
       <header>
-        <h1>RAM SEVAK MISHRA</h1>
-        <h2>Full Stack Developer</h2>
-        <p>
-          +91 8545021612 | ramsevakmishra69@gmail.com |{" "}
-          <a href="https://linkedin.com/in/ramsevakmishra69">
-            linkedin.com/in/ramsevakmishra69
-          </a>
-        </p>
+        <div class="header-content">
+          <img src={rsmImage} alt="Logo" className="logo" />
+          <div class="text-content">
+            <h1>RAM SEVAK MISHRA</h1>
+            <h2>Full Stack Developer</h2>
+            <p>
+              +91 8545021612 | ramsevakmishra69@gmail.com |
+              <a href="https://linkedin.com/in/ramsevakmishra69">
+                linkedin.com/in/ramsevakmishra69
+              </a>
+            </p>
+          </div>
+        </div>
       </header>
 
       <section className="objective">
