@@ -1,0 +1,79 @@
+{
+    "header": {
+        "name": "RAM SEVAK MISHRA",
+        "title": "Full Stack Developer",
+        "phone": "+91 8545021612",
+        "email": "ramsevakmishra69@gmail.com",
+        "linkedin": "https://linkedin.com/in/ramsevakmishra69",
+        "image": "/rsm.png"
+    },
+    "objective": "Be a part of rapidly advancing and evolving technology so that my talent, creativity is put to maximum exposure.",
+    "experience": [
+        {
+            "position": "Full Stack Developer",
+            "company": "Freelancer",
+            "companyLink": "https://devcomtool.com/",
+            "dates": "April 2024 - Present",
+            "responsibilities": [
+                "Created a website and other task",
+                "Technology Used: Django, ReactJS, Python, MySQL, Wordpress, Laraval, NodeJS, AWS, Git & Github"
+            ]
+        },
+        {
+            "position": "Full Stack Developer",
+            "company": "Mach-X Private Limited",
+            "companyLink": "https://www.linkedin.com/company/mach-x-private-limited/about/",
+            "dates": "June 2021 - Mar 2024",
+            "responsibilities": [
+                "Developed the web user interface and the APIs, powering the application.",
+                "Created parser to convert PDF file into Excel.",
+                "Created a parser to extract data from email.",
+                "Supporting applications, manage their lifecycle and ensure high availability.",
+                "Technology Used: React JS, Redux, Node JS, Express JS, Python, R, MySQL, AWS, Django, Elastic Search, Python, MySQL"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Online Attendance System — Using Face Recognition",
+            "description": "A python application to help collect attendance quickly and easily.",
+            "technologies": "Python, Android"
+        },
+        {
+            "title": "PDF to Excel Conversion",
+            "description": "Developed a tool to automate the conversion of PDF documents to Excel spreadsheets using Python.",
+            "technologies": "Python, Pymupdf, pandas, Openpyxl, Jupyter Notebook, Git"
+        },
+        {
+            "title": "Comprehensive Inventory and Order Management System",
+            "description": "Developed a robust Inventory and Order Management System designed to streamline procurement, inventory, order processing, and billing operations.",
+            "technologies": "Laravel, PHP, HTML, CSS, JavaScript, MySQL, REST APIs"
+        }
+    ],
+    "skills": {
+        "languages": "JavaScript, Python, C",
+        "databases": "MySQL, PostgreSQL, MongoDB",
+        "tools": "React, Node, Express, Django, Flask, Git, Docker, AWS Services, ChatGPT",
+        "interests": "Good understanding of Data Structures and Computer Algorithms."
+    },
+    "education": [
+        {
+            "degree": "B. Tech in Computer Science & Engineering",
+            "institution": "AKTU, Lucknow",
+            "years": "2016 - 2020",
+            "result": "CGPA 6.82"
+        },
+        {
+            "degree": "Senior Secondary",
+            "institution": "State Board",
+            "years": "2014 - 2016",
+            "result": "87%"
+        },
+        {
+            "degree": "Higher Secondary",
+            "institution": "State Board",
+            "years": "2012 - 2014",
+            "result": "85%"
+        }
+    ]
+}
